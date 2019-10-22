@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<satellites>
+  <satellitesproperty planetnum="3">
+    <satellite name="Луна">
+      <imagename>moon.png</imagename>
+      <name>Луна</name>
+      <size>3,793⋅10^7 км²</size>
+      <mass>7,3477⋅10^22 кг </mass>
+      <volume>2,1958⋅10^10 км³</volume>
+      <type>Planet</type>
+      <littleinfo>Луна́ — естественный спутник Земли. Самый близкий к Солнцу спутник планеты, так как у ближайших к Солнцу планет, Меркурия и Венеры, спутников нет. Второй по яркости объект на земном небосводе после Солнца и пятый по величине естественный спутник планеты Солнечной системы. Среднее расстояние между центрами Земли и Луны — 384 467 км (0,002 57 а. е., ~ 30 диаметров Земли).</littleinfo>
+    </satellite>
+  </satellitesproperty>
+  <satellitesproperty planetnum="4">
+  <satellite name="Фобос">
+      <imagename>fobos.png</imagename>
+      <name>Фобос</name>
+      <size>26,8×22,4×18,4 км</size>
+      <mass>1,072⋅10^16</mass>
+      <volume>?</volume>
+      <type>comiet</type>
+      <littleinfo>Фо́бос (др.-греч. φόβος «страх») — один из двух спутников Марса (наряду с Деймосом). Был открыт американским астрономом Асафом Холлом в 1877 году[3] и назван в честь древнегреческого бога Фобоса (переводится как «Страх»), сына бога войны Ареса.</littleinfo>
+    </satellite>
+  <satellite name="Деймос">
+      <imagename>daemos.png</imagename>
+      <name>Деймос</name>
+      <size>15×12,2×10,4 км</size>
+      <mass>1,48⋅10^15</mass>
+      <volume>?</volume>
+      <type>comiet</type>
+      <littleinfo>
+        Де́ймос (греч. Δείμος «ужас») — один из двух спутников Марса (наряду с Фобосом). Был открыт американским астрономом Асафом Холлом в 1877 году и назван им в честь древнегреческого бога ужаса Деймоса, спутника бога войны Ареса.
+      </littleinfo>
+    </satellite>
+    </satellitesproperty>
+  <satellitesproperty planetnum="5">
+    <satellite name="Ио">
+      <imagename>io.png</imagename>
+      <name>Ио</name>
+      <size>41 910 000 км2</size>
+      <mass>8,9319⋅10^22 кг</mass>
+      <volume>2,53⋅10^10 км3</volume>
+      <type>Planet</type>
+      <littleinfo>И́о, или Иó (др.-греч. Ἰώ), — спутник Юпитера, самый близкий к планете из четырёх галилеевых спутников. Назван в честь мифологической Ио — жрицы Геры и возлюбленной Зевса. Имеет диаметр 3642 км, что делает его четвёртым по величине спутником в Солнечной системе.</littleinfo>
+    </satellite>
+  <satellite name="Европа">
+    <imagename>europe.png</imagename>
+    <name>Европа</name>
+    <size>30,61 млн км²</size>
+    <mass>4,8017⋅1022 кг</mass>
+    <volume>	15,93 млрд км³</volume>
+    <type>Planet</type>
+    <littleinfo>Евро́па (др.-греч. Ἐυρώπη), или Юпитер II — шестой спутник Юпитера, наименьший из четырёх галилеевых спутников. Обнаружена в 1610 году Галилео Галилеем и, вероятно, Симоном Марием в то же самое время. На протяжении столетий за Европой велись всё более всесторонние наблюдения при помощи телескопов, а начиная с семидесятых годов двадцатого века — и пролетающих вблизи космических аппаратов.</littleinfo>
+  </satellite>
+  <satellite name="Ганимед">
+    <imagename>ganimed.png</imagename>
+    <name>Ганимед</name>
+    <size>87,0 миллионов км2</size>
+    <mass>1,4819⋅1023 кг</mass>
+    <volume>7,6⋅1010 км3</volume>
+    <type>Planet</type>
+    <littleinfo>Ганиме́д (др.-греч. Γανυμήδης) — один из галилеевых спутников Юпитера, седьмой по расстоянию от него среди всех его спутников и крупнейший спутник в Солнечной системе. Его диаметр равен 5268 километрам, что на 2 % больше, чем у Титана (второго по величине спутника в Солнечной системе) и на 8 % больше, чем у Меркурия.</littleinfo>
+  </satellite>
+  <satellite name="Каллисто">
+    <imagename>callisto.png</imagename>
+    <name>Каллисто</name>
+    <size>7,30⋅107 км2 </size>
+    <mass>1,075 938 ± 0,000 137⋅1023 кг</mass>
+    <volume>5,9⋅1010 км3 </volume>
+    <type>Planet</type>
+    <littleinfo>Калли́сто (лат. Callisto; греч. Καλλιστώ) — второй по размеру спутник Юпитера (после Ганимеда), один из четырёх галилеевых спутников и самый удалённый среди них от планеты. Является третьим по величине спутником в Солнечной системе после Ганимеда и Титана. Был открыт в 1610 году Галилео Галилеем, назван в честь персонажа древнегреческой мифологии — Каллисто, любовницы Зевса.</littleinfo>
+  </satellite>
+  </satellitesproperty>
+  <satellitesproperty planetnum="6">
+    <satellite name="Титан">
+      <imagename>titan.png</imagename>
+      <name>Титан</name>
+      <size>83 млн км²</size>
+      <mass>1,3452⋅10^23 кг</mass>
+      <volume>?</volume>
+      <type>Planet</type>
+      <littleinfo>Тита́н (др.-греч. Τιτάν) — крупнейший спутник Сатурна, второй по величине спутник в Солнечной системе (после спутника Юпитера Ганимеда), является единственным, кроме Земли, телом в Солнечной системе, для которого доказано стабильное существование жидкости на поверхности, и единственным спутником планеты, обладающим плотной атмосферой.</littleinfo>
+    </satellite>
+    <satellite name="Рея">
+      <imagename>Reya.png</imagename>
+      <name>Рея</name>
+      <size>7,33 млн км²</size>
+      <mass>2,306518±0,000353⋅10^21 кг</mass>
+      <volume>?</volume>
+      <type>Planet</type>
+      <littleinfo>Ре́я (лат. Rhea, др.-греч. Ῥέα) — второй по величине спутник Сатурна. Рея была открыта Джованни Кассини в 1672 году. Кассини назвал 4 открытых им спутника Сатурна «звёздами Людовика» (лат. Sidera Lodoicea) в честь короля Франции Людовика XIV. Астрономы долго называли Рею просто пятым спутником Сатурна (Saturn V).</littleinfo>
+    </satellite>
+  </satellitesproperty>
+</satellites>
+
+<!--template
+<satellitesproperty planetnum="3">
+      <satellite name="Test1">
+        <imagename>002.png</imagename>
+        <name>Test1</name>
+        <size>Test1</size>
+        <mass>Test1</mass>
+        <volume>Test1</volume>
+        <type>Test1</type>
+        <littleinfo></littleinfo>
+      </satellite>
+</satellitesproperty>
+-->
